@@ -1,0 +1,39 @@
+﻿1. Iniciar el programa.
+
+2. Definir el precio base del seguro en Q2000.
+
+3. Repetir el proceso mientras el usuario no escriba "Salir".
+
+4. Reiniciar el recargo total en cero.
+
+5. Solicitar la edad del asegurado.
+
+6. Si la edad es menor a 18, mostrar mensaje y no permitir cotización.
+
+7. Si la edad está entre 18 y 24, agregar 10% del precio base.
+
+8. Si la edad está entre 25 y 49, agregar 20% del precio base.
+
+9. Si la edad es 50 o mayor, agregar 30% del precio base.
+
+10. Preguntar si está casado.
+
+11. Si está casado, solicitar la edad del cónyuge y aplicar recargo según rango de edad.
+
+12. Solicitar cantidad de hijos y agregar 20% del precio base por cada hijo.
+
+13. Solicitar cantidad de propiedades y agregar 35% del precio base por cada propiedad.
+
+14. Solicitar salario mensual y agregar 5% del salario.
+
+15. Calcular el total sumando el precio base más todos los recargos.
+
+16. Mostrar el total de la cotización.
+
+17. Preguntar si desea salir del programa.
+
+18. Si escribe "Salir", finalizar.
+
+19. Si no, repetir el proceso.
+
+20. Fin del programa.
